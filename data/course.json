@@ -1,0 +1,53 @@
+{
+  "term": "Spring",
+  "year": "2021",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Mathematics",
+      "Linear Algebra"
+    ],
+    [
+      "Mathematics",
+      "Mathematical Analysis"
+    ]
+  ],
+  "legacy_uid": "9556176f-6161-1abc-13c7-4ec15e5451f5",
+  "instructors": {
+    "content": [
+      "6d295edd-6dc3-dac9-83e4-ce194076cc5d"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "64b41398-d2b6-7c11-5e28-11b0f1252042",
+    "website": "18-102-introduction-to-functional-analysis-spring-2021"
+  },
+  "course_title": "Introduction to Functional Analysis",
+  "hide_download": true,
+  "mit_learn_topics": [],
+  "course_description": "Functional analysis helps us study and solve both linear and nonlinear problems posed on a normed space that is no longer finite-dimensional, a situation that arises very naturally in many concrete problems. Topics include normed spaces, completeness, functionals, the Hahn-Banach Theorem, duality, operators; Lebesgue measure, measurable functions, integrability, completeness of L\u1d56 spaces; Hilbert spaces; compact and self-adjoint operators; and the Spectral Theorem.",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "18.1021",
+  "primary_course_number": "18.102",
+  "course_image_thumbnail": {
+    "content": "56f28744-5957-e678-5fca-3c44b50982e5",
+    "website": "18-102-introduction-to-functional-analysis-spring-2021"
+  },
+  "hide_download_original": false,
+  "learning_resource_types": [
+    "Problem Sets",
+    "Exams",
+    "Lecture Notes",
+    "Lecture Videos",
+    "Editable Files"
+  ],
+  "site_uid": "9ece5365-cb37-4ff3-8577-6d95f1a9f15c",
+  "site_short_id": "18.102-spring-2021",
+  "site_url_path": "courses/18-102-introduction-to-functional-analysis-spring-2021",
+  "title": "Course Metadata"
+}
