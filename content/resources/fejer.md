@@ -4,8 +4,6 @@ description: ''
 file: /courses/18-102-introduction-to-functional-analysis-spring-2021/36aa89a4cb53aec3e1b38ae2924b2c2d_fejer.PNG
 file_size: 62604
 file_type: image/png
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''
